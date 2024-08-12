@@ -12,7 +12,7 @@
 char *host;
 char ip[100];
 int port = 80;
-int num_requests = 100000000; //default
+int num_requests = 100000; //default
 int thread_num = 0;
 pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 
