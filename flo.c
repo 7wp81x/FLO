@@ -87,7 +87,8 @@ int main(int argc, char *argv[]) {
 
     printf("\033[1;94m[*] Requests: %d\n", num_requests);
     printf("\033[1;94m[*] Target: %s (%s)\n", host, ip);
-    printf("\033[1;94m[*] Port: %d", port);
+    printf("\033[1;94m[*] Port: %d\n", port);
+    sleep(3);
     pthread_t threads[num_requests];
     for (int i = 0; i < num_requests; i++) {
         if (pthread_create(&threads[i], NULL, attack, NULL) != 0) {
