@@ -1,4 +1,3 @@
-<h1>Flo</h1>
 
 Just a simple ddos tool written in C
 
