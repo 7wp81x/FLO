@@ -1,12 +1,13 @@
-#Flo
-Just a simple ddos tool written in C.
+<h2>Flo</h2>
 
-##Compile
+`Just a simple ddos tool written in C`
+
+<h2>Compile</h2>
 ```
 gcc flo.c -o flo
 ```
 
-##Usage
+<h2>Usage</h2>
 
 ```
 ./flo <ip> <port> <num of req>
