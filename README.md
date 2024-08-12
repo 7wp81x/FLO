@@ -1,8 +1,9 @@
 <h2>Flo</h2>
 
-`Just a simple ddos tool written in C`
+Just a simple ddos tool written in C
 
 <h2>Compile</h2>
+
 ```
 gcc flo.c -o flo
 ```
