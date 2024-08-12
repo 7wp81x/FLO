@@ -1,4 +1,4 @@
-<h2>Flo</h2>
+<h1>Flo</h1>
 
 Just a simple ddos tool written in C
 
