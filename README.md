@@ -5,7 +5,9 @@ Just a simple ddos tool written in C.
 ```
 gcc flo.c -o flo
 ```
+
 ##Usage
+
 ```
 ./flo <ip> <port> <num of req>
 ```
